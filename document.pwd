@@ -1,0 +1,19 @@
+# PWD Document
+# This is a sample custom PWD file.
+# The .pwd extension can be used for a custom document format.
+
+TITLE: PDF Words Documentos
+VERSION: 1.0
+FORMAT: PWD
+
+SECTION: INTRODUCTION
+This file represents a sample PWD document.
+It can be used to store text content in a custom structured format.
+
+SECTION: CONTENT
+- Document Type: PWD
+- Purpose: Store text-based documents in a custom extension
+- Status: Example template
+
+SECTION: END
+END_OF_FILE
